@@ -1,4 +1,6 @@
 .DS_Store
 dist
+# api keys
+.env 
 /node_modules
 yarn-error.log
